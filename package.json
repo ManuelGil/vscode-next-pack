@@ -1,0 +1,99 @@
+{
+  "name": "vscode-next-pack",
+  "displayName": "NextJS Essential Extension Pack",
+  "description": "Essential extensions for NextJS development in Visual Studio Code (VS Code). This extension pack includes tools for NextJS, React, TypeScript, GraphQL, Prettier, ESLint, Jest, Git, CSS, HTML, Markdown, and more.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "javascript",
+    "js",
+    "json",
+    "next",
+    "nextjs",
+    "node",
+    "nodejs",
+    "react",
+    "reactjs",
+    "schema",
+    "schematics",
+    "snippet",
+    "snippets",
+    "ts",
+    "typescript",
+    "vercel",
+    "vscode-extension",
+    "vscode"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-next-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-next-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-next-pack/issues"
+  },
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "blanu.vscode-styled-jsx",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "codezombiech.gitignore",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "gitlab.gitlab-workflow",
+    "GraphQL.vscode-graphql",
+    "Gruntfuggly.todo-tree",
+    "haydenbleasel.vercel-vscode",
+    "imgildev.vscode-nextjs-generator",
+    "jmkrivocapich.drawfolderstructure",
+    "kisstkondoros.vscode-gutter-preview",
+    "leodevbro.blockman",
+    "lucono.karma-test-explorer",
+    "MariusAlchimavicius.json-to-ts",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "MS-vsliveshare.vsliveshare",
+    "mushan.vscode-paste-image",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "pmneo.tsimporter",
+    "pulkitgangwar.nextjs-snippets",
+    "ritwickdey.liveserver",
+    "shardulm94.trailing-spaces",
+    "shd101wyy.markdown-preview-enhanced",
+    "steoates.autoimport",
+    "stringham.move-ts",
+    "styled-components.vscode-styled-components",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "vivaxy.vscode-conventional-commits",
+    "willluke.nextjs",
+    "wix.vscode-import-cost",
+    "yoavbls.pretty-ts-errors",
+    "yzhang.markdown-all-in-one"
+  ]
+}
