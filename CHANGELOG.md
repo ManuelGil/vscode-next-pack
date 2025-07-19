@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.1] - 2025-07-18
+
+### Changed
+
+- Update funding model and enhance README and package description for clarity
+
 ## [1.2.0] - 2024-11-17
 
 ### Added
@@ -33,7 +39,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
-[unreleased]: https://github.com/ManuelGil/vscode-next-pack/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/ManuelGil/vscode-next-pack/compare/v1.2.1...HEAD
+[1.2.1]: https://github.com/ManuelGil/vscode-next-pack/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/ManuelGil/vscode-next-pack/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/ManuelGil/vscode-next-pack/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/ManuelGil/vscode-next-pack/compare/v1.0.0...v1.0.1

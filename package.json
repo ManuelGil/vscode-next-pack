@@ -1,8 +1,8 @@
 {
   "name": "vscode-next-pack",
-  "displayName": "NextJS Essential Extension Pack",
+  "displayName": "Next.js Essential Extension Pack",
   "description": "Essential extensions for NextJS development in Visual Studio Code (VS Code). This extension pack includes tools for NextJS, React, TypeScript, GraphQL, Prettier, ESLint, Jest, Git, CSS, HTML, Markdown, and more.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
